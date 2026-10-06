@@ -1,0 +1,14 @@
+# Dados (públicos, baixados do DATASUS e do IBGE)
+bases_viol_2009-2025/
+bases_estimativa_pop_fem/
+*.dbc
+*.dbf
+*.xlsx
+
+# Resultados gerados pelo script
+resultados_R/
+
+# Arquivos do R/RStudio
+.Rhistory
+.RData
+.Rproj.user/
